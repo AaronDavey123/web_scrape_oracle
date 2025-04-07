@@ -6,11 +6,11 @@ This Python script automates the extraction of text and table names from the Ora
 
 ## ✨ Key Features
 - Scrapes dropdown-based TOC (Table of Contents) using Selenium automation
--Handles dynamic iframe content and cookie consent interaction
--Automatically zooms out for better visibility and performance
--Extracts table names from specific sections (e.g., "2 AI")
--Includes dynamic wait handling for smoother execution
--Logs and prints clear step-by-step actions and errors
+- Handles dynamic iframe content and cookie consent interaction
+- Automatically zooms out for better visibility and performance
+- Extracts table names from specific sections (e.g., "2 AI")
+- Includes dynamic wait handling for smoother execution
+- Logs and prints clear step-by-step actions and errors
 
 ## 🛠️ Technologies Used
 - Python 3.x
